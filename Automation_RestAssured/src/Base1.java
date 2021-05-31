@@ -3,7 +3,9 @@ public class Base1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("dfgf");
+System.out.println("dfgfvfg");
+System.out.println("dfgfvfg");
 	}
+	
 
 }
